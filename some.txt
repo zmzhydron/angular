@@ -2,3 +2,5 @@ some text!
 this is stashed text; and it's should be stashed.
 
 fuck the stash!!!;
+
+message from problem-1234;
