@@ -1,2 +1,4 @@
 some text!
 this is stashed text;
+
+fuck the stash!!!;
