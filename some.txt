@@ -1,4 +1,4 @@
 some text!
-this is stashed text;
+this is stashed text; and it's should be stashed.
 
 fuck the stash!!!;
