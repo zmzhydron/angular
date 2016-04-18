@@ -6,3 +6,5 @@ fuck the stash!!!;
 message from problem-1234;
 
 message not from master,it's originated from problem-1~~~!!!;
+
+MSG PM -1;
